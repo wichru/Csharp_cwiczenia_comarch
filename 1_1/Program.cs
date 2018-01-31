@@ -10,6 +10,10 @@ namespace _1_1
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Tekst");
+            Console.WriteLine("Zapisany");
+            Console.WriteLine("W 3 liniach");
+            Console.ReadKey();
         }
     }
 }
